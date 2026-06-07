@@ -1,0 +1,16 @@
+# Local dev credentials — never commit
+src/main/resources/application-local.properties
+
+# Claude Code memory
+.claude/
+
+# Build output
+target/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# OS
+.DS_Store
